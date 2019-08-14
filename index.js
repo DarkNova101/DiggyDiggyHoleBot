@@ -5,7 +5,7 @@ const prefix = ">";
 
 const fs = require('fs');
 
-client.login("NjExMDQyNTYzNDEwODg2NzEx.XVODvg.fAajo8jAD7NVY35TB7oBcj-BoI8");
+client.login("STUPID ME");
 
 client.on('warn', console.warn);
 
