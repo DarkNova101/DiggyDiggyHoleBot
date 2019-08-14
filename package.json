@@ -1,0 +1,26 @@
+{
+  "name": "diggydiggyholebot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^11.5.1",
+    "ffmpeg-binaries": "^4.0.0",
+    "fs": "0.0.1-security",
+    "node-opus": "^0.3.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DarkNova101/DiggyDiggyHoleBot.git"
+  },
+  "author": "Dark",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/DarkNova101/DiggyDiggyHoleBot/issues"
+  },
+  "homepage": "https://github.com/DarkNova101/DiggyDiggyHoleBot#readme"
+}
